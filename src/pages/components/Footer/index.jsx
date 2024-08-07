@@ -1,9 +1,9 @@
-import './Footer.module.css'
+import styles from './Footer.module.css'
 
 function Footer() {
     return (
         <>
-        <footer>
+        <footer className={footer}>
             FEITO P0R IAN LUCCA E HUGO LUIZ
         </footer>
         </>
