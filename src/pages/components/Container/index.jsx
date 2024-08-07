@@ -11,7 +11,7 @@ function Container() {
            <a href="/teste"> <input type="button" value="RPG DE AÇÃO" /></a>
             <div className={style.diva}>
             <div className={style.button_slide}><a href="https://www.xbox.com/pt-BR"><img className={style.img}   src='./xboxxr.png'/></a></div>
-            <div className={style.button_nintendo}><a href="https://www.nintendo.com/pt-br/"><img className={style.img}   src='.//nintendo.png'/></a></div>
+            <div className={style.button_nintendo}><a href="https://www.nintendo.com/pt-br/"><img className={style.img}   src='./nintendo.png'/></a></div>
             <div className={style.button_play}><a href="https://www.playstation.com/pt-br/"><img className={style.imgplay}   src='./play.png'/></a></div>
            
             </div>
