@@ -1,0 +1,39 @@
+
+:root  {
+    font-family: "Exo", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.div {
+   
+    
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px #22222270;    
+   
+    justify-content: space-between;
+    background-color:  #2a51bd70;
+    display: inline-flex;
+  
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    color: white;
+    font-weight: bold;
+}
+
+.div:hover{
+    background-color: rgb(2, 125, 167);
+}
+
+.img {
+    height: 120px;
+}
+
+
+
+.section {
+    align-items: center;
+     text-align: center; 
+     width: 300px;
+}

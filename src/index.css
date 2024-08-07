@@ -1,0 +1,18 @@
+:root  {
+    font-family: "Exo", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+body {
+    background-color: #2A475E;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+  
+}
+
+
+
