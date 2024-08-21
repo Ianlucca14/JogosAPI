@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 
 codigos npm:
+npm create vite@latest nomeprojeto
 -> cd nomeprojeto -  para entrar na pasta do projeto
 -> npm install - para instalar a pasta node_modules que é necessária para a execução do projeto
 -> npm run dev  -  para iniciar e rodar o projeto.
